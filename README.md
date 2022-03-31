@@ -10,6 +10,8 @@
 First, I make several small components, and I take some 
 props. And map it with the components.
 For this project, i full of used React framework.
+and i used some Telwind Css for this project.
+
 
 
 #Link:- <a target="_blank" href="https://totality-corp-assignment.herokuapp.com/">OpenSea</a>
